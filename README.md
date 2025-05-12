@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 Role: Backend & Frontend  
 Description: Developed a telemedicine app bridging patients with healthcare providers.
 
-### [ShopeWise App](https://github.com/your-username/shopewise)
+### [ShopeWise App](https://github.com/ayegbakenneth/webstack_portfolio_project.git)
 Role: Backend & Frontend  
 Description: Enhanced shopping experience with smart recommendations.
 
