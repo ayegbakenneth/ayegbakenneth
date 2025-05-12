@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 
 ## 💼 Projects
 
-### [Telemedicine Platform](https://github.com/your-username/telemedicine)
+### [Telemedicine Platform](https://github.com/PLP-WebTechnologies/integrating-frontend-and-backend-ayegbakenneth)
 Role: Backend & Frontend  
 Description: Developed a telemedicine app bridging patients with healthcare providers.
 
