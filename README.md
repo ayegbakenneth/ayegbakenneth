@@ -40,7 +40,7 @@ Description: Developed a telemedicine app bridging patients with healthcare prov
 Role: Backend & Frontend  
 Description: Enhanced shopping experience with smart recommendations.
 
-### [Basic Shell Implementation](https://github.com/your-username/basic-shell)
+### [Basic Shell Implementation](https://github.com/Munir405/simple_shell_2.git)
 Role: Backend  
 Description: Created a shell in C to demonstrate OS concepts.
 
