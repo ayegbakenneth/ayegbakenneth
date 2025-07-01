@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 ## 💼 Projects
 
 ### [Movie Recommendation Application](https://github.com/ayegbakenneth/Movie-Recommendation-Application.git)
-Role: Backend & Frontend  
-Description: Developed a telemedicine app bridging patients with healthcare providers.
+A full-stack web application that allows users to discover popular movies, create an account, and manage their personal favorites and watchlist.
 
 ### [ShopeWise App](https://github.com/ayegbakenneth/webstack_portfolio_project.git)
 Role: Backend & Frontend  
