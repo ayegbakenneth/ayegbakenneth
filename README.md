@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 
 ## 💼 Projects
 
-### [Telemedicine Platform](https://github.com/ayegbakenneth/Movie-Recommendation-Application.git)
+### [Movie Recommendation Application](https://github.com/ayegbakenneth/Movie-Recommendation-Application.git)
 Role: Backend & Frontend  
 Description: Developed a telemedicine app bridging patients with healthcare providers.
 
